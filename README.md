@@ -1,4 +1,3 @@
-# Executive Summary
 
 This project involves predictive modeling for **silica content in iron ore concentrate** based on input ore quality and processing parameters from an iron ore flotation plant. The data I used here was downloaded from the [Kaggle](https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process/data). The dataset spans six months of observations, with sensor readings recorded at varying intervals (1 to 180 measurements per hour) across 22 features.
 
