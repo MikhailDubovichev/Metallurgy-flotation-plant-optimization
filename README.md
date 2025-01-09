@@ -31,7 +31,3 @@ Both Random Forest and LSTM models demonstrated limited predictive power, likely
 - Engaging with plant operators to contextualize sensor readings and validate anomalies.
 
 This project demonstrates the application of various data analysis and machine learning techniques, including **Random Forest**, **LSTM**, **feature importance analysis**, **SHAP values**, and **hyperparameter tuning** through **grid search**. These approaches showcase my ability to employ diverse methods to solve complex predictive modeling problems.
-
-The data I used here was downloaded from the Kaggle. Below is the description of the dataframe, from the person, who uploaded it to the Kaggle:
-
-"This is a model based on Quality Prediction in a Mining Process data, I downloaded from Kaggle: https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process/data
